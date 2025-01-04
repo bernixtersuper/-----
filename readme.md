@@ -8,6 +8,6 @@
 - **Resources**: Curated lists of tools and materials needed for different hobbies.
 
 ## Getting Started
-To get started with 趣味と知恵 click on the dedicated link of the repository or click here
+To get started with 趣味と知恵, [click here](https://bernixtersuper.github.io/shumi-to-chie/).
 
 Enjoy exploring your hobbies with 趣味と知恵!
